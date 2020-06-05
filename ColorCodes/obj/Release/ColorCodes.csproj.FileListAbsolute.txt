@@ -6,3 +6,12 @@ C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Release\Colo
 C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Release\ColorCodes.csproj.GenerateResource.Cache
 C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Release\ColorsCode.exe
 C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Release\ColorsCode.pdb
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\bin\Release\ColorsCode.exe.config
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\bin\Release\ColorsCode.exe
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\bin\Release\ColorsCode.pdb
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorCodes.csprojAssemblyReference.cache
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorCodes.Form1.resources
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorsCode.Properties.Resources.resources
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorCodes.csproj.GenerateResource.cache
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorsCode.exe
+D:\Movaghari\Source\C#\ColorCodes\ColorCodes\obj\Release\ColorsCode.pdb
