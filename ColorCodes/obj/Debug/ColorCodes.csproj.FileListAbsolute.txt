@@ -1,0 +1,9 @@
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorCodes.Form1.resources
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorCodes.csproj.GenerateResource.Cache
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\bin\Debug\ColorsCode.exe.config
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\bin\Debug\ColorsCode.exe
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\bin\Debug\ColorsCode.pdb
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorsCode.Properties.Resources.resources
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorsCode.exe
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorsCode.pdb
+C:\Users\hmovaghari\Dropbox\Visual Studio\ColorCodes\ColorCodes\obj\Debug\ColorCodes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ColorsCode", "ColorsCode\ColorsCode.vdproj", "{7526CC99-7465-47F1-BAAA-30D0E785ED28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7526CC99-7465-47F1-BAAA-30D0E785ED28}.Debug|Default.ActiveCfg = Debug
+		{7526CC99-7465-47F1-BAAA-30D0E785ED28}.Debug|Default.Build.0 = Debug
+		{7526CC99-7465-47F1-BAAA-30D0E785ED28}.Release|Default.ActiveCfg = Release
+		{7526CC99-7465-47F1-BAAA-30D0E785ED28}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
